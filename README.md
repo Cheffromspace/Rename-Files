@@ -1,5 +1,5 @@
 Before installing script set Powershell Execution Policy
 
-`Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned`
+`PS> Set-ExecutionPolicy -Scope CurrentUser -ExecutionPolicy RemoteSigned`
 
-To install script run ./Install-Script from repo directory
+To install script rye `PS> Install-Script` from download directory
